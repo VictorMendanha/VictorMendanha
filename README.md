@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá, eu sou o Victor Mendanha 👋
 
-<!--
-**VictorMendanha/VictorMendanha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Procurando oportunidades de trabalaho.
+- 🌱 Estudando HTML, CSS e JavaScript
+- 📫 Contate-me no e-mail: menezesvictor33@gmail.com
+- 😄 Pronouns: ele/dele
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/VictorMendanha/">
+   <img height="188em" src="https://github-readme-stats.vercel.app/api?username=VictorMendanha&show_icons=true&theme=radical">
+   <img height="188em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMendanha&show_icons=true&theme=radical">
+</div>
