@@ -2,7 +2,6 @@
 
 - 🔭 Procurando oportunidades de trabalaho.
 - 🌱 Estudando HTML, CSS e JavaScript
-- 📫 Contate-me no e-mail: menezesvictor33@gmail.com
 - 😄 Pronouns: ele/dele
 
 
@@ -10,4 +9,8 @@
   <a href="https://github.com/VictorMendanha/">
    <img height="188em" src="https://github-readme-stats.vercel.app/api?username=VictorMendanha&show_icons=true&theme=radical">
    <img height="188em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMendanha&show_icons=true&theme=radical">
+</div>
+
+<div>
+  https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 </div>
