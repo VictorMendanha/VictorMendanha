@@ -4,13 +4,12 @@
 - 🌱 Estudando HTML, CSS e JavaScript
 - 😄 Pronouns: ele/dele
 
-
-<div>
-  <a href="https://github.com/VictorMendanha/">
-   <img height="188em" src="https://github-readme-stats.vercel.app/api?username=VictorMendanha&show_icons=true&theme=radical">
-   <img height="188em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMendanha&show_icons=true&theme=radical">
-</div>
-
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</div>
+<div>
+  <a href="https://www.linkedin.com/in/victor-mendanha/
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  >
 </div>
