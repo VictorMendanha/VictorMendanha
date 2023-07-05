@@ -13,7 +13,7 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=VictorMendanha&show_icons=true&theme=dracula">
-  <igm src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMendanha&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMendanha&layout=compact">
 </div>
 
 <hr>
